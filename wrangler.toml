@@ -1,0 +1,7 @@
+name = "astro-search"
+main = "src/index.js"
+compatibility_date = "2026-04-26"
+
+[[kv_namespaces]]
+binding = "RESULTS"
+id = "af8454757bc34474802336c724f95b8c"
